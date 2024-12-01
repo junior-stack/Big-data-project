@@ -11,7 +11,10 @@
   | hive     | 3.1.3     |
   | derby    | 10.14.2.0 |
 
-
+- Mac
+  | software | version   |
+  |----------|-----------|
+  | hadoop   | 
 
 # 2. Installing spark
 
