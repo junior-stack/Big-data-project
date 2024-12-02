@@ -1,4 +1,5 @@
 # Big-data-project
+teammate: ChengRan Sun, Hao Lan, Zhou Ye
 
 # 1. Software Requirement
 
